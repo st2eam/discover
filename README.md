@@ -14,6 +14,6 @@ photos/          # 原图（网站通过 jsDelivr 引用）
 2. 提交并推送到 `main`
 3. 在网站仓库运行 `npm run photos`（需本仓库与网站仓库同级，或设置 `DISCOVER_PHOTOS_DIR`）
 
-原图 CDN 示例：
+原图地址示例：
 
-`https://cdn.jsdelivr.net/gh/st2eam/discover@main/photos/DSC00054.jpg`
+`https://raw.githubusercontent.com/st2eam/discover/main/photos/DSC00054.jpg`
